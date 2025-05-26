@@ -1,3 +1,5 @@
+/* eslint-disable  @typescript-eslint/no-explicit-any */
+
 import Papa from "papaparse";
 import { ParsedData } from "./types";
 

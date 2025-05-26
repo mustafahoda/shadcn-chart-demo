@@ -1,3 +1,5 @@
+/* eslint-disable  @typescript-eslint/no-explicit-any */
+
 import { ChartConfig, ChartData, ParsedData } from "./types";
 import { parseCSV } from "./csv-parser";
 import { generateDerivedColumns, getRequiredDerivedColumns } from "./derived-columns";

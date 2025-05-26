@@ -1,3 +1,4 @@
+/* eslint-disable  @typescript-eslint/no-explicit-any */
 export interface ChartConfig {
   title: string;
   type: "bar" | "line";
